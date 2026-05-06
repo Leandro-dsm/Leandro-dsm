@@ -1,22 +1,22 @@
-<h1 align="center">🐉 Olá, eu sou o Leandro Sueoka 👋</h1>
+<h1 align="center">Olá, eu sou o Leandro Sueoka</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVwZnQzbzJ6am4zdTFhdnBxa3Z4bmxiNGVxdHZpc2ZxNTZjaHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="300"/>
 </p>
 
 <h3 align="center">
-💥 Desenvolvedor em treinamento | Sempre em busca do próximo nível 💥
+Desenvolvedor em treinamento | Sempre em busca do próximo nível
 </h3>
 
 ---
 
 ## 🟠 Sobre mim (Saga Atual)
 
-🎓 Estudante de Tecnologia  
-💻 Desenvolvedor em formação  
-📚 Estudando **Java, Python, Node.js e Estrutura de Dados**  
-🔥 Evoluindo diariamente como um verdadeiro **Guerreiro Z do código**  
-🚀 Objetivo: atuar profissionalmente como desenvolvedor
+Estudante de Tecnologia  
+Desenvolvedor em formação  
+Estudando **Java, Python, Node.js e Estrutura de Dados**  
+Evoluindo diariamente como um verdadeiro **Guerreiro Z do código**  
+Objetivo: atuar profissionalmente como desenvolvedor
 
 > *"O poder vem da prática constante!"* – Mestre Kame (adaptado 😄)
 
@@ -38,15 +38,15 @@
 
 ## 🟣 Técnicas Especiais (Habilidades)
 
-⚡ Desenvolvimento de APIs REST  
-⚡ Estrutura de Dados e Lógica de Programação  
-⚡ Versionamento com Git/GitHub  
-⚡ Documentação de sistemas  
-⚡ Projetos acadêmicos e práticos  
+Desenvolvimento de APIs REST  
+Estrutura de Dados e Lógica de Programação  
+Versionamento com Git/GitHub  
+Documentação de sistemas  
+Projetos acadêmicos e práticos  
 
 ---
 
 
 <h3 align="center">
-✨ Em constante treinamento para alcançar o Super Saiyajin Dev ✨
+Em constante treinamento para alcançar o Super Saiyajin Dev
 </h3>

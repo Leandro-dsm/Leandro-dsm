@@ -103,7 +103,8 @@ Sistema desenvolvido durante o estágio no **Programa PROATI**, em conjunto com 
 - CSS
 - SQLite
 - SQLAlchemy
-🔗 https://github.com/lopes7890
+
+🔗 https://github.com/lopes7890 <br>
 🔗 https://github.com/Leandro-dsm/sistema_proati
 
 ---

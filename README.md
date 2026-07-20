@@ -129,18 +129,12 @@ API utilizando arquitetura organizada com Blueprints e documentação.
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leandro-dsm&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-dsm&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leandro-dsm&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leandro-dsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leandro-dsm&layout=compact&theme=github_dark"/>
+</p>
 ---
 
 # 🎯 Atualmente estudando

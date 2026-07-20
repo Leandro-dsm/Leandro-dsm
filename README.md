@@ -108,6 +108,10 @@ O sistema permite controlar o empréstimo e a devolução dos equipamentos, mant
 * SQLite
 * SQLAlchemy
 
+👥 Desenvolvimento
+
+Este projeto foi desenvolvido em conjunto por Leandro Sabino Sueoka e Alisson Lopes da Silva Bosco https://github.com/lopes7890 , durante o estágio no Programa PROATI, com o objetivo de apoiar a gestão dos recursos tecnológicos da unidade escolar.
+
 🔗 **Repositório:** https://github.com/Leandro-dsm/sistema_proati
 
 

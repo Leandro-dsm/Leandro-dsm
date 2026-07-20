@@ -86,16 +86,30 @@ Sistema Full Stack para gerenciamento de pedidos.
 
 ## 🚀 Sistema PROATI
 
-Sistema desenvolvido para apoio às atividades escolares.
+Sistema web desenvolvido durante meu estágio no **Programa PROATI (Programa de Apoio à Tecnologia da Informação)** para otimizar o gerenciamento dos notebooks da unidade escolar e apoiar a administração dos recursos tecnológicos.
 
-**Tecnologias**
+O sistema permite controlar o empréstimo e a devolução dos equipamentos, manter o cadastro dos notebooks e registrar automaticamente um **log de auditoria**, possibilitando o monitoramento das ações realizadas pelos usuários e garantindo maior rastreabilidade e segurança das informações.
 
-- Python
-- Flask
-- HTML
-- CSS
+### Principais funcionalidades
 
-🔗 https://github.com/Leandro-dsm/sistema_proati
+* 💻 Cadastro e gerenciamento de notebooks
+* 📋 Controle de empréstimos e devoluções
+* 👥 Gerenciamento de usuários
+* 📜 Registro de logs de auditoria das ações realizadas no sistema
+* 🔍 Consulta ao histórico de utilização dos equipamentos
+* 📊 Organização e acompanhamento dos recursos tecnológicos da escola
+
+### Tecnologias
+
+* Python
+* Flask
+* HTML5
+* CSS3
+* SQLite
+* SQLAlchemy
+
+🔗 **Repositório:** https://github.com/Leandro-dsm/sistema_proati
+
 
 ---
 

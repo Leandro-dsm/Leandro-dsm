@@ -4,73 +4,71 @@
 
 ### Full Stack Developer • Software Development Student
 
-Desenvolvendo soluções para Web, Desktop e Mobile utilizando tecnologias modernas.
+Desenvolvendo soluções para Web, Desktop e Mobile.
 
 <p>
   <a href="https://github.com/Leandro-dsm">
-    <img src="https://komarev.com/ghpvc/?username=Leandro-dsm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Leandro-dsm?style=for-the-badge&logo=github">
   </a>
+  <img src="https://img.shields.io/badge/Fatec-DSM-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge">
 </p>
 
 </div>
 
 ---
 
-# 💼 Sobre mim
+# 💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Registro**.
+Sou estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **Fatec Registro**.
 
-💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
+Tenho interesse em desenvolvimento **Full Stack**, com foco em aplicações **Web**, **Desktop** e **Mobile**, sempre buscando escrever código limpo, organizado e escalável.
 
-Tenho experiência no desenvolvimento de aplicações:
+Durante meu estágio no **Programa PROATI**, participei do desenvolvimento de um sistema para gerenciamento dos notebooks da unidade escolar, incluindo controle de empréstimos, devoluções e monitoramento por logs de auditoria.
 
-- 🌐 Web
-- 🖥 Desktop
-- 📱 Mobile
-- 🔌 APIs REST
-
-Busco constantemente aprimorar minhas habilidades através de projetos práticos, estudos e desafios de desenvolvimento.
+Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para projetos que gerem impacto positivo.
 
 ---
 
-# 🚀 Tecnologias
+# 🛠️ Tecnologias
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java"/>
+</p>
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flet](https://img.shields.io/badge/Flet-0095D5?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
 ### Banco de Dados
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+</p>
 
 ### Ferramentas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+</p>
 
 ---
 
-# 📌 Projetos em destaque
+# 🚀 Projetos em Destaque
 
-## 🚀 FlowOrder
+## 📦 FlowOrder
 
-Sistema Full Stack para gerenciamento de pedidos.
+Sistema Full Stack desenvolvido para gerenciamento de pedidos.
 
 **Tecnologias**
 
@@ -84,75 +82,86 @@ Sistema Full Stack para gerenciamento de pedidos.
 
 ---
 
-## 🚀 Sistema PROATI
+## 💻 Sistema PROATI
 
-Sistema web desenvolvido durante meu estágio no **Programa PROATI (Programa de Apoio à Tecnologia da Informação)** para otimizar o gerenciamento dos notebooks da unidade escolar e apoiar a administração dos recursos tecnológicos.
+Sistema desenvolvido durante o estágio no **Programa PROATI**, em conjunto com **Alisson Lopes da Silva Bosco**, para apoiar o gerenciamento dos notebooks da unidade escolar.
 
-O sistema permite controlar o empréstimo e a devolução dos equipamentos, manter o cadastro dos notebooks e registrar automaticamente um **log de auditoria**, possibilitando o monitoramento das ações realizadas pelos usuários e garantindo maior rastreabilidade e segurança das informações.
+### Funcionalidades
 
-### Principais funcionalidades
-
-* 💻 Cadastro e gerenciamento de notebooks
-* 📋 Controle de empréstimos e devoluções
-* 👥 Gerenciamento de usuários
-* 📜 Registro de logs de auditoria das ações realizadas no sistema
-* 🔍 Consulta ao histórico de utilização dos equipamentos
-* 📊 Organização e acompanhamento dos recursos tecnológicos da escola
-
-### Tecnologias
-
-* Python
-* Flask
-* HTML5
-* CSS3
-* SQLite
-* SQLAlchemy
-
-👥 Desenvolvimento
-
-Este projeto foi desenvolvido em conjunto por Leandro Sabino Sueoka e Alisson Lopes da Silva Bosco https://github.com/lopes7890 , durante o estágio no Programa PROATI, com o objetivo de apoiar a gestão dos recursos tecnológicos da unidade escolar.
-
-🔗 **Repositório:** https://github.com/Leandro-dsm/sistema_proati
-
-
----
-
-## 🚀 API REST
-
-API utilizando arquitetura organizada com Blueprints e documentação.
+- Cadastro de notebooks
+- Controle de empréstimos
+- Controle de devoluções
+- Gerenciamento de usuários
+- Histórico de utilização
+- Monitoramento por logs de auditoria
 
 **Tecnologias**
 
+- Python
 - Flask
-- Swagger
-- REST API
+- HTML
+- CSS
+- SQLite
+- SQLAlchemy
+🔗 https://github.com/lopes7890
+🔗 https://github.com/Leandro-dsm/sistema_proati
 
 ---
 
-## 📈 GitHub Analytics
+## 🌐 API REST
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leandro-dsm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leandro-dsm&layout=compact&theme=github_dark"/>
-</p>
+API desenvolvida com Flask utilizando Blueprints e arquitetura organizada.
+
+- CRUD
+- Documentação
+- Boas práticas
+
 ---
 
-# 🎯 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Arquitetura de Software
-- APIs REST
 - React Native
 - Docker
+- APIs REST
 - UI/UX
-- Boas práticas de desenvolvimento
 - Clean Code
+
+---
+
+# 🎯 Objetivos
+
+- Desenvolver aplicações escaláveis
+- Aprimorar conhecimentos em arquitetura de software
+- Contribuir com projetos Open Source
+- Atuar como Desenvolvedor Full Stack
+
+---
+
+# 📬 Contato
+
+<p>
+
+<a href="https://github.com/Leandro-dsm">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad."
+### Obrigado pela visita!
 
-*Cory House*
+*"Transformando ideias em soluções através da tecnologia."*
 
 </div>

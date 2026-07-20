@@ -50,10 +50,12 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para proje
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 
-<p>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 </p>
 
 ### Ferramentas
@@ -84,7 +86,8 @@ Sistema Full Stack desenvolvido para gerenciamento de pedidos.
 
 ## 💻 Sistema PROATI
 
-Sistema desenvolvido durante o estágio no **Programa PROATI**, em conjunto com **Alisson Lopes da Silva Bosco**, para apoiar o gerenciamento dos notebooks da unidade escolar.
+Sistema desenvolvido durante o estágio no **Programa PROATI**, em conjunto com **Alisson Lopes da Silva Bosco**, para apoiar o gerenciamento dos notebooks da unidade escolar.<br>
+🔗 https://github.com/lopes7890 <br>
 
 ### Funcionalidades
 
@@ -104,7 +107,6 @@ Sistema desenvolvido durante o estágio no **Programa PROATI**, em conjunto com 
 - SQLite
 - SQLAlchemy
 
-🔗 https://github.com/lopes7890 <br>
 🔗 https://github.com/Leandro-dsm/sistema_proati
 
 ---

@@ -1,52 +1,146 @@
-<h1 align="center">Olá, eu sou o Leandro Sueoka</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVwZnQzbzJ6am4zdTFhdnBxa3Z4bmxiNGVxdHZpc2ZxNTZjaHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNn4hlkovWAHfpLRRD/giphy.gif" width="300"/>
+# 👋 Olá, eu sou Leandro Sabino Sueoka
+
+### Full Stack Developer • Software Development Student
+
+Desenvolvendo soluções para Web, Desktop e Mobile utilizando tecnologias modernas.
+
+<p>
+  <a href="https://github.com/Leandro-dsm">
+    <img src="https://komarev.com/ghpvc/?username=Leandro-dsm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="center">
-Desenvolvedor em treinamento | Sempre em busca do próximo nível
-</h3>
+</div>
 
 ---
 
-## 🟠 Sobre mim (Saga Atual)
+# 💼 Sobre mim
 
-Estudante de Tecnologia  
-Desenvolvedor em formação  
-Estudando **Java, Python, Node.js e Estrutura de Dados**  
-Evoluindo diariamente como um verdadeiro **Guerreiro Z do código**  
-Objetivo: atuar profissionalmente como desenvolvedor
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Registro**.
 
-> *"O poder vem da prática constante!"* – Mestre Kame (adaptado 😄)
+💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
 
----
+Tenho experiência no desenvolvimento de aplicações:
 
-## 🔵 Nível de Poder (Tecnologias)
+- 🌐 Web
+- 🖥 Desktop
+- 📱 Mobile
+- 🔌 APIs REST
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
-
-</p>
+Busco constantemente aprimorar minhas habilidades através de projetos práticos, estudos e desafios de desenvolvimento.
 
 ---
 
-## 🟣 Técnicas Especiais (Habilidades)
+# 🚀 Tecnologias
 
-Desenvolvimento de APIs REST  
-Estrutura de Dados e Lógica de Programação  
-Versionamento com Git/GitHub  
-Documentação de sistemas  
-Projetos acadêmicos e práticos  
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flet](https://img.shields.io/badge/Flet-0095D5?style=for-the-badge)
+
+### Banco de Dados
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+
+### Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
+# 📌 Projetos em destaque
 
-<h3 align="center">
-Em constante treinamento para alcançar o Super Saiyajin Dev
-</h3>
+## 🚀 FlowOrder
+
+Sistema Full Stack para gerenciamento de pedidos.
+
+**Tecnologias**
+
+- Python
+- Flask
+- Flet
+- SQLite
+- SQLAlchemy
+
+🔗 https://github.com/Leandro-dsm/FlowOrder
+
+---
+
+## 🚀 Sistema PROATI
+
+Sistema desenvolvido para apoio às atividades escolares.
+
+**Tecnologias**
+
+- Python
+- Flask
+- HTML
+- CSS
+
+🔗 https://github.com/Leandro-dsm/sistema_proati
+
+---
+
+## 🚀 API REST
+
+API utilizando arquitetura organizada com Blueprints e documentação.
+
+**Tecnologias**
+
+- Flask
+- Swagger
+- REST API
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leandro-dsm&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-dsm&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leandro-dsm&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Atualmente estudando
+
+- Arquitetura de Software
+- APIs REST
+- React Native
+- Docker
+- UI/UX
+- Boas práticas de desenvolvimento
+- Clean Code
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad."
+
+*Cory House*
+
+</div>
